@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:59:39.016653
+# -*- mode: mandoku-view -*-
 #+TITLE: 上清外國放品青童內文
-#+PROPERTY: DZID  DZ1373
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—8 二卷 正一部
+#+DATE: 2015-08-29 02:59:40
+#+PROPERTY:  LASTPB <PB KR5g0182_SJB_002-340016c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶¶¶¶
+
